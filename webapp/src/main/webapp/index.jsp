@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> Dussera Devali Mobile & Laptop offers available till 15th Dec 2023... </h1>   
+         <h1> New Year Mobile & Laptop offers available till 1st Jan 2024... </h1>   
 	 
 
     </section>    
