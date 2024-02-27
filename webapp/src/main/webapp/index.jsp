@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-	<h1> Dushera and Diwali offers available till 1th Nov 2023 <h1>   
+	<h1> Dushera and Diwali offers available till 11 th Nov 2024 <h1>   
 	 
 
     </section>    
