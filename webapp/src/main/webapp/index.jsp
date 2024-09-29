@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-	<h1> Dushera and Diwali offers available till 10 Nov 2024, by munish request <h1>   
+	<h1> Dushera and Diwali's Mobile & other electronic offers available till 10 Nov 2024, by munish request <h1>   
 	 
 
     </section>    
